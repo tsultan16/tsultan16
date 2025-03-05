@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsultan16&theme=gotham" alt="Tanzid's GitHub Achievements" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsultan16&theme=algolia" alt="Tanzid's GitHub Achievements" />
 </div>
 
 
