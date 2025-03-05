@@ -46,10 +46,12 @@ Here are some ideas to get you started:
   <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
   <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
   <img alt="langchain" src="https://img.shields.io/badge/langchain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" />
+  <img alt="langgraph" src="https://img.shields.io/badge/langgraph-1C3C3C?logo=langgraph&logoColor=white&style=for-the-badge" />
   
   <img alt="ollama" src="https://img.shields.io/badge/ollama-000000?logo=ollama&logoColor=white&style=for-the-badge" />  
-  <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-  <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+  <img alt="huggingface" src="https://img.shields.io/badge/huggingface-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" />
+
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge" />
 
 </p>
 
