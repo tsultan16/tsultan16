@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 [![Tanzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsultan16)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsultan16&theme=radical" alt="Hoang Son's GitHub Streak" />
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsultan16&show_icons=true&theme=gotham&hide=contribs,prs,rank)
 
