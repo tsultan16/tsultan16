@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
   <img alt="langchain" src="https://img.shields.io/badge/langchain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" />
   
-  <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />  
+  <img alt="ollama" src="https://img.shields.io/badge/ollama-000000?logo=ollama&logoColor=white&style=for-the-badge" />  
   <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
   <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
 
