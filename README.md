@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsultan16&size_weight=0.25&count_weight=0.75&layout=donut&hide=EJS,Gnuplot,OpenEdge+ABL,Shell,Jupyter+Notebook,Makefile,Roff,Batchfile&langs_count=20&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsultan16&size_weight=0.25&count_weight=0.75&layout=donut&hide=EJS,Gnuplot,OpenEdge+ABL,Prolog,Shell,Jupyter+Notebook,Makefile,Roff,Batchfile&langs_count=20&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
