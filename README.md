@@ -24,6 +24,29 @@ Here are some ideas to get you started:
 
 ---
 
+## Technologies that I use:
+
+### Full-Stack Web Dev
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+  <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+</p>
+
+### AI/Machine Learning
+<p>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+  
+
+</p>
+
+
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsultan16&size_weight=0.2&count_weight=0.8&layout=donut&hide=EJS,Gnuplot,OpenEdge+ABL,Shell,Jupyter+Notebook,Makefile,Roff,Batchfile&langs_count=20&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
