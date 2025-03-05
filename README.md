@@ -32,10 +32,12 @@ Here are some ideas to get you started:
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="nodedotjs" src="https://img.shields.io/badge/nodedotjs-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-    
+  <img alt="nodejs" src="https://img.shields.io/badge/nodejs-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />    
 </p>
 
 ### AI/Machine Learning
@@ -43,8 +45,11 @@ Here are some ideas to get you started:
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
   <img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
   <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
-  <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+  <img alt="langchain" src="https://img.shields.io/badge/langchain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" />
   
+  <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />  
+  <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+  <img alt="scikitlearn" src="https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
 
 </p>
 
