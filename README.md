@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Technologies that I like using:
+## Technologies that I like working with:
 
 ### Full-Stack Web Dev
 <p>
