@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 -->
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsultan16&theme=radical" alt="Hoang Son's GitHub Streak" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsultan16&theme=radical" alt="Tanzid's GitHub Achievements" />
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsultan16&show_icons=true&theme=gotham&hide=contribs,prs,rank)
