@@ -32,14 +32,15 @@ Here are some ideas to get you started:
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="nodejs" src="https://img.shields.io/badge/nodejs-5FA04E?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img alt="express" src="https://img.shields.io/badge/expressjs-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="vite" src="https://img.shields.io/badge/vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
   <img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />    
 </p>
 
