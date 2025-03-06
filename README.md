@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />    
 </p>
 
 ### AI/Machine Learning
